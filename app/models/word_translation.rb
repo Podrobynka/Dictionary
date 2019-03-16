@@ -1,0 +1,2 @@
+class WordTranslation < ApplicationRecord
+end
